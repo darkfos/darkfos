@@ -1,6 +1,3 @@
-# readm.md
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
+<div class="head" align="center">
+    <img src="https://media.giphy.com/media/KxbHmvL3MGcctzlfdX/giphy.gif" width=100>
+</div>
