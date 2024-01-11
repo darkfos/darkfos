@@ -31,3 +31,11 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" width="40" height="40">
     <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" width="40" height="40">
 </div>
+
+
+
+        
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+    
+
