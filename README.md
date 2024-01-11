@@ -22,14 +22,14 @@
 
 ### :hammer_and_wrench: Languages and Tools :
 <div class="img">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="40" height="40">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" width="40" height="40">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="40" height="40">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="40" height="40">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="40" height="40">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="40" height="40">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" width="40" height="40">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" width="40" height="40">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" width="40" height="40">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" width="40" height="40">
 </div>
