@@ -30,6 +30,4 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="40" height="40">
     <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" width="40" height="40">
     <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" width="40" height="40">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" width="40" height="40">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" width="40" height="40">
 </div>
