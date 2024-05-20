@@ -34,7 +34,7 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" width="40" height="40">
     <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" width="40" height="40">
     <img src="https://github.com/devicons/devicon/blob/master/icons/sqlalchemy/sqlalchemy-original.svg" width="40" height="40">
-    <img src="https://www.google.com/search?client=firefox-b-lm&sca_esv=137e48d954afa8b7&hl=ru&sxsrf=ADLYWIL-LuRqckTz17PdKHt7PikA8AwunA:1716196518014&q=pydantic+icon&tbm=isch&source=lnms&prmd=ivsnbmt&sa=X&ved=2ahUKEwjKp8ie8puGAxU0GxAIHTIlCrgQ0pQJegQICxAB&biw=1920&bih=923&dpr=1#imgrc=YUagN0CUmkEapM" width="40" height="40">
+    <img src="https://github.com/darkfos/darkfos/blob/main/110818415.png" width="40" height="40">
 </div>
 
 
