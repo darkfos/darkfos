@@ -36,7 +36,7 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/sqlalchemy/sqlalchemy-original.svg" width="40" height="40">
     <img src="https://github.com/darkfos/darkfos/blob/main/110818415.png" width="40" height="40">
     <img src="https://github.com/darkfos/darkfos/blob/main/1066203.png" width="40" height="40">
-
+    <img src="https://github.com/darkfos/darkfos/blob/main/33784865.png" width="40" height="40">
 </div>
 
 
