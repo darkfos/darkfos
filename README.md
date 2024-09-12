@@ -7,7 +7,7 @@
         <a href="https://github.com/Foo0s">
             <img src="https://img.shields.io/badge/GitHub2-yellow?logo=github&logoColor=white&style=for-the-badge">
         </a>
-        <a href="https://t.me/DarkFox99">
+        <a href="https://t.me/darkfos99">
             <img src="https://img.shields.io/badge/Telegram-blue?logo=Telegram&logoColor=Blue&style=for-the-badge">
         </a>
     </div>
